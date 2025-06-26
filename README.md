@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Dharani Kumar
-- 👀 I’m interested in Python , ML, AI
-- 🌱 I’m currently learning how machines learn
-- 💞️ I’m looking to collaborate on projects which use python & Machine learning  
+- 👀 I’m interested in Java, SpringBoot, Python , ML, AI
+- 🌱 I’m currently working as Software Engineer 
 - 📫 How to reach me - dharanikumarganne@gmail.com
 
 <!---
